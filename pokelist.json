@@ -1,0 +1,20 @@
+[
+{
+    "url": "https://raw.githubusercontent.com/hjfsg95/XiaoHuang/gh-pages/1.png",
+    "coord_x": 0.1,
+    "coord_y": 0.3,
+    "name": "good_morning"
+},
+{
+    "url": "https://raw.githubusercontent.com/hjfsg95/XiaoHuang/gh-pages/4.png",
+    "coord_x": 0.5,
+    "coord_y": 0.7,
+    "name": "good_afternoon"
+},
+{
+    "url": "https://raw.githubusercontent.com/hjfsg95/XiaoHuang/gh-pages/7.png",
+    "coord_x": 0.2,
+    "coord_y": 0.6,
+    "name": "good_evening"
+}
+]
